@@ -20,22 +20,22 @@
 
 Приложение позволяет исполнять CRUD операций над пользователями, проектами и задачами. Пользователь участвует в одном и более проектов, в проекте есть одна и более задач
 
-- [IS-Lab1](https://github.com/bilyardvmetro/IS-Lab1)
+- [REST API для менеджмента объектами](https://github.com/bilyardvmetro/IS-Lab1)
 
->
+> Jakarta EE (JAX-RS), EclipseLink JPA, PostgreSQL, Gradle, Grafana, Prometheus, JWT, BCrypt, WildFly
 
-blank
+Приложение предоставляет возможности работы с объектами Person. CRUD-операции, удаление с перепривязкой связанных объектов, расчёт среднего роста, фильтры и агрегирующие запросы по национальности, весу, цвету глаз/волос и локации.
 
 - [REST приложение на JAX-RS](https://github.com/bilyardvmetro/OPI-Lab4)
 
-> Jakarta EE (JAX-RS), Hibernate, PostgreSQL, Gradle, Grafana, Prometheus, JWT
+> Jakarta EE (JAX-RS), Hibernate, PostgreSQL, Gradle, Grafana, Prometheus, JWT, BCrypt, WildFly
 
-Приложение позволяет кликать на точки по области и собирать по ним статистику. В проекте есть gradle джобы, prometheus и grafana для сбора и визуализации метрик
+Backend приложения с регистрацией, авторизацией по JWT, проверкой попадания точки в область, сохранением истории точек пользователя и экспортом метрик/статистики попаданий. В проекте есть gradle джобы, prometheus и grafana для сбора и визуализации метрик
 
 - [Клиент-Серверное десктоп приложение на Java](https://github.com/bilyardvmetro/ITMO-System-Application-Software/tree/main/1%20%D0%BA%D1%83%D1%80%D1%81/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/2%20sem/Lab8)
-> Java, JavaFX, PostgreSQL, Maven
+> Java, JavaFX, JDBC PostgreSQL, Maven
 
-Приложение позволяет исполнять CRUD операций над объектами, а также отображает их в GUI. Приложение поддерживает одновременную работу нескольких клиентов
+Клиент-серверное приложение для управления коллекцией Транспортных средств: авторизация/регистрация, CRUD-операции, фильтрация, сортировка и визуальный JavaFX-клиент с локализацией на 3 языка.
 
 ## Pet проекты на Go
 
