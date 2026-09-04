@@ -9,7 +9,8 @@
 ## Pet проекты на Java
 
 - [Spring Boot REST Сервис сокращения ссылок с Kafka и мониторингом](https://github.com/bilyardvmetro/URLShortener)
-  > Spring Boot, PostgreSQL, Flyway, Kafka, Prometheus, Grafana, Docker, Gradle
+
+> Spring Boot, PostgreSQL, Flyway, Kafka, Prometheus, Grafana, Docker, Gradle
   
 Приложение позволяет создавать короткие ссылки для заданного URL и собирать статистику переходов. При каждом переходе по короткой ссылке сервис выполняет редирект на оригинальный URL и отправляет событие в Kafka, далее отдельный consumer сохраняет информацию о клике в PostgreSQL.
 - [CRUD-приложение на Spring Boot с инфраструктурой мониторинга](https://github.com/bilyardvmetro/spring-crud)
