@@ -21,7 +21,13 @@
 Приложение позволяет исполнять CRUD операций над пользователями, проектами и задачами. Пользователь участвует в одном и более проектов, в проекте есть одна и более задач
 
 - [IS-Lab1](https://github.com/bilyardvmetro/IS-Lab1)
+
+>
+
+blank
+
 - [REST приложение на JAX-RS](https://github.com/bilyardvmetro/OPI-Lab4)
+
 > Jakarta EE (JAX-RS), Hibernate, PostgreSQL, Gradle, Grafana, Prometheus, JWT
 
 Приложение позволяет кликать на точки по области и собирать по ним статистику. В проекте есть gradle джобы, prometheus и grafana для сбора и визуализации метрик
@@ -33,7 +39,7 @@
 
 ## Pet проекты на Go
 
-- [Экосистема для инвестиций. Сервис-агрегатор котировок] (https://github.com/awesoma31/TrumpInvestitions)
+- [Экосистема для инвестиций. Сервис-агрегатор котировок](https://github.com/awesoma31/TrumpInvestitions)
 
 > Go, REST API, Clickhouse, Docker, Git, Clickhouse, Postman, OpenAPI
 
